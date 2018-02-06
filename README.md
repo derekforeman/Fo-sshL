@@ -12,3 +12,5 @@ vim ~/.bash_profile
 if [ -f ~/.bash_aliases ]; then
    source ~/.bash_aliases
 fi
+
+**PRs are welcome.**
