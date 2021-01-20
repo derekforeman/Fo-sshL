@@ -3,14 +3,15 @@
 Until now. 
 
 ## Bash 
-vim ~/.bash_aliases
+`vim ~/.bash_aliases`
 
-alias fosshl=/usr/bin/ssh 
+`alias fosshl=/usr/bin/ssh`
 
-vim ~/.bash_profile 
+`vim ~/.bash_profile`
 
+```
 if [ -f ~/.bash_aliases ]; then
    source ~/.bash_aliases
 fi
-
+```
 **PRs are welcome.**
